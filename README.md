@@ -3,7 +3,9 @@ Mobile View Template Using Overscroll from Jonathan Azoff and iPhone Mobile Prev
 
 Overscroll: https://github.com/azoff/overscroll
 
-iPhone Preview: http://beeker.io/display-website-in-iphone-html-css-javascript / https://github.com/beeker1121/website-mobile-preview
+Mobile Preview: http://beeker.io/display-website-in-iphone-html-css-javascript
+
+https://github.com/beeker1121/website-mobile-preview
 
 -----
 
