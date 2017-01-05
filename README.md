@@ -16,3 +16,5 @@ Beeker.io's Mobile Preview, or bioMp, solved the size issue by scaling the whole
 To take this one step further, I wanted the displayed webpage to act as it would if you were actually looking at it on a phone, i.e., dragging to scroll, while also allowing for overscroll if you drag and release. For this, I implemented Jonathan Azoff's Overscroll project within the mobile site. 
 
 One final addition was a custom semi-transparent round cursor I created to further mimic Device Mode. 
+
+While the mobile site is not responsive, the portfolio page displaying the mobile site view is. When viewing the portfolio page on a screen below 455px, the entire iPhone mobile preview is hidden, and the regular mobile website is displayed.
