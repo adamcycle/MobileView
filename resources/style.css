@@ -1,0 +1,10 @@
+body {
+    margin: 0;
+}
+
+#overscroll {
+    width: 375px;
+    height: 100%;
+    overflow: hidden;
+    position: relative;
+}
