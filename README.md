@@ -9,7 +9,7 @@ https://github.com/beeker1121/website-mobile-preview
 
 -----
 
-The combination of these two scripts solved an issue I was having in a class. We were required to create a simple mobile-only version of a website, and then add it to our body of work.  Since the site was not responsive and designed specifically to be displayed on a small screen, it became stretched out when viewed on a desktop.  I needed a way to restrict the window size, but an iframe did not work due to the difference in resolution on mobile vs desktop. An iframe at 300px appears much larger than a phone screen, which did not make for a good design aesthetic within my class portfolio site, and it was not an accurate representation of the mobile site.
+The combination of these two scripts solved an issue I was having in a class. We were required to create a simple mobile-only version of a website, and then add it to our body of work.  Since the site was not responsive and designed specifically to be displayed on a small screen, it became stretched out when viewed on a desktop.  I needed a way to restrict the viewport, but an iframe did not work due to the difference in resolution on mobile vs desktop. The mobile site within an iframe at the site's optimal width appeared much larger than a phone screen, which did not make for a good design aesthetic.
 
 Basically, I wanted to mimic Chrome DevTools Device Mode using CSS and JS.
 
